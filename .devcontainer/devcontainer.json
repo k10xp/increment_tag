@@ -9,10 +9,12 @@
 			"extensions": [
 				"formulahendry.code-runner",
 				"ms-vscode.live-server",
-				"gxl.git-graph-3"
+				"gxl.git-graph-3",
+				"redhat.vscode-yaml"
 			],
 			"settings": {
 				"code-runner.enableAppInsights": false,
+				"telemetry.editStats.enabled": false,
 				"telemetry.feedback.enabled": false
 			}
 		}
